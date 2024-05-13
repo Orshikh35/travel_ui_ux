@@ -47,11 +47,6 @@ export const FEATURES = [
   },
 ];
 
-// FOOTER SECTION
-export const FOOTER_LINKS = [
-  
-];
-
 export const FOOTER_CONTACT_INFO = {
   title: 'Холбоо барих',
   links: [

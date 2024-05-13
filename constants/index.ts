@@ -49,10 +49,7 @@ export const FEATURES = [
 
 // FOOTER SECTION
 export const FOOTER_LINKS = [
-  {
-    title: 'Our Community',
-    links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
-  },
+  
 ];
 
 export const FOOTER_CONTACT_INFO = {
